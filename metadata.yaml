@@ -1,0 +1,36 @@
+_repo: The-Naturalist-in-La-Plata_7446
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: W. H. Hudson grew up on the Argentinean pampas, studying the wildlife
+  of the region and honing his observational skills. An extraordinarily talented writer,
+  Hudson's prose brings the region to life in The Naturalist in La Plata , a natural
+  history brimming with Hudson's portraits of the birds and beasts of the beautiful
+  La Plata. Hudson's deep respect for the environment is apparent here; as he often
+  mourns the nature man has destroyed.
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animal behavior -- Argentina -- Pampas'
+- !lcc 'QL'
+- !lcsh 'Natural history -- Argentina -- Pampas'
+- !lcsh 'Zoology -- Argentina -- Pampas'
+- GITenberg
+title: The Naturalist in La Plata
+url: http://www.gutenberg.org/ebooks/7446
