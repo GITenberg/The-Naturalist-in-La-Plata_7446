@@ -1,5 +1,8 @@
 _repo: The-Naturalist-in-La-Plata_7446
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hudson, W. H. (William Henry)
@@ -17,6 +20,8 @@ description: W. H. Hudson grew up on the Argentinean pampas, studying the wildli
   history brimming with Hudson's portraits of the birds and beasts of the beautiful
   La Plata. Hudson's deep respect for the environment is apparent here; as he often
   mourns the nature man has destroyed.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7446#The-Naturalist-in-La-Plata
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
